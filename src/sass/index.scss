@@ -1,0 +1,13 @@
+@import './import/_header';
+.box {
+	background: #fff;
+	p {
+		color: blue;
+	}
+	a {
+		text-decoration: none;
+		color: #f30;
+		font-weight: bold;
+		font-size: 30px;
+	}
+}
